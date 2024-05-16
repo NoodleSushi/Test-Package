@@ -5,4 +5,5 @@ setup(
     packages=find_packages(),
     version='0.2',
     package_data={'test_package': ['data/**/*']},
+    include_package_data=True,
 )

@@ -2,6 +2,6 @@ from setuptools import setup
 
 setup(
     name='test_package',
-    packages=['src'],
+    packages=['test_package'],
     version='0.1',
 )

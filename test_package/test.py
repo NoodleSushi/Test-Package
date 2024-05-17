@@ -11,5 +11,5 @@ def kek():
     with open(text_file) as f:
         print(f.read())
 
-def um():
+def well():
     print(message)
